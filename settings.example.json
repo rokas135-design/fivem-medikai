@@ -1,0 +1,45 @@
+{
+  "medics": [
+    {
+      "name": "Pavyzdys_Medikas",
+      "from": "2026-11-01"
+    }
+  ],
+  "months": {
+    "2026-11": {
+      "opens": "2026-11-23",
+      "due": "2026-11-29",
+      "replace_weekly": true
+    }
+  },
+  "reminder_time": "18:00",
+  "ocr": {
+    "profile": "firem",
+    "engine": "tesseract",
+    "language": "lit+eng",
+    "windows_language": "en-US",
+    "min_confidence": 85,
+    "anonymous_calls_source": "npc"
+  },
+  "discord": {
+    "enabled": false,
+    "check_reaction_enabled": false,
+    "reaction_workbook": "",
+    "lookback_days": 10,
+    "guild_id": "",
+    "channels": {
+      "dienos_statistika": "",
+      "savaitės-aktyvumas": ""
+    },
+    "forum_names": {
+      "dienos_statistika": "dienos-statistika",
+      "savaitės-aktyvumas": "savaitinis-aktyvumas"
+    },
+    "daily_threads": {
+      "2026-11": ""
+    },
+    "weekly_threads": {
+      "Pavyzdys_Medikas": ""
+    }
+  }
+}

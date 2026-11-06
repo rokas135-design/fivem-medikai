@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-ocr/
+models/
+settings.json
+!examples/settings.json
+data/
+demo-data/
+demo-bot-data/
+
